@@ -1,0 +1,12 @@
+@relation attribute
+@attribute bread{y,n}
+@attribute jelly{y,n}
+@attribute butter{y,n}
+@attribute milk{y,n}
+@attribute sugar{y,n}
+@data
+y y y n n
+y n y n n
+y n y y n
+y n n y y
+y y n y n
